@@ -260,7 +260,7 @@ Visit your domain or server IP address in a web browser to access the deployed a
 
 ## Authors
 This exceptional project was expertly developed as an end-of-module assignment. Our talented team, consisting of:
-  - sheik hameed  [@Hameed-shaik123](https://github.com/Hameed-shaik123/)
+  - sheik hameed  [@bhanu prakash](https://github.com/Bhanu2424/)
  
 
 
